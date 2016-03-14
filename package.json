@@ -1,0 +1,24 @@
+{
+  "name": "jquery-partital",
+  "version": "0.0.9",
+  "description": "jquery partital loader",
+  "main": "/lib/jquery.partital.js",
+  "author": "wilesun@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilesun/jquery-partital.git"
+  },
+  "keywords": [
+    "jquery",
+    "partital",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/wilesun/jquery-partital/issues"
+  },
+  "homepage": "https://github.com/wilesun/jquery-partital#readme"
+}
